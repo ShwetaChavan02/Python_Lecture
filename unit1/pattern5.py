@@ -1,4 +1,5 @@
 # alphabetic pattern 
+# all alphabets
 '''
 A
 B C 
