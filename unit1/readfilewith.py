@@ -8,5 +8,5 @@ with open("txtfile1.txt") as f:
     wt = ct.split()
     print("Total words:", len(wt))
     print("Total characters:", len(ct))
-
+    
 #while using WITH statement we don't need to close the file
