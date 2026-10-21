@@ -1,4 +1,5 @@
 # alphabetic pattern 
+# row wise right angled triangle pattern
 '''
 A
 B B 
