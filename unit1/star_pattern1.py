@@ -1,4 +1,5 @@
 # star pattern 
+# in + shape
 '''
 o/p
 
