@@ -6,3 +6,4 @@ def my_function(animal, name):
 my_function(name="lucky",animal="cat")
 # sequence doesnt matter as values are called using keywords
 my_function(animal="cat", name="lucky")
+
