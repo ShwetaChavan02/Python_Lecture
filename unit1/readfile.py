@@ -1,5 +1,5 @@
+# read file 
 # file operations
-#read file
 
 f = open("txtfile1.txt")
 print(f.read())
