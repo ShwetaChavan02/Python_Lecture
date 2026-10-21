@@ -1,4 +1,5 @@
 # alphabetic pyramid pattern
+# same as numeric
 '''
 o/p
      A
