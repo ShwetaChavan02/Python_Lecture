@@ -1,4 +1,5 @@
 # alphabetic pattern 
+# print in sequence 
 '''
 A
 A B 
