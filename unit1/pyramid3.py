@@ -1,4 +1,5 @@
 #hollow alphabetic pyramid pattern
+# 
 '''
 o/p
      A
