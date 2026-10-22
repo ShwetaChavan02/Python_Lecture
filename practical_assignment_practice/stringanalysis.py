@@ -11,5 +11,4 @@ for name in f:
     print("Last character:", name[-1])
     print("Palindrome:", name == name[::-1])
     print()
-
 f.close()
