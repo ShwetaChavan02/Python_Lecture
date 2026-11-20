@@ -1,3 +1,7 @@
+# try except block
+# withdrawal program
+
+balance=20000
 try:
     amount = float(input("Enter withdrawal amount:"))
     if amount <= 0:
