@@ -1,6 +1,5 @@
-# try except block
 # withdrawal program
-# else finally block
+# using else and finally block
 
 balance=20000
 try:
@@ -11,8 +10,10 @@ try:
         raise ValueError("Insufficient balance")
     balance -= amount
     print("Withdrawal successful...")
-    print("Remaining balance:", balance)
 except ValueError as e:
     print("Error:", e)
-except Exception as e:
-    print("An unexpected error occurred:", e)
+else:
+    print("No exceptions occurred.")
+finally:
+    print("Withdrawal process completed.")
+    print("Remaining balance:", balance)
